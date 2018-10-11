@@ -11,6 +11,7 @@ In this repo you can find a few matlab utilities useful for data analysis and si
    - centOfMass2d   - centOfMass2d calculates center of mass of an image
    - fftRange       - gives the circular domain of a fft
    - ndDetrend      - generalizes detrend to multi-dimensional arrays
+   - NeurNetRegs    - basic implementation of neural network with fully-connected layers
    - nmax           - nmax gives the maximum of sevaral variables
    - round2multiple - rounds to the closest multiple of a unit
    - nmin           - nmin gives the minumum of sevaral variables
